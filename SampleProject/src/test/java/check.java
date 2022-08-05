@@ -6,12 +6,10 @@ public class check {
 
 		System.out.print("create new conflict");
 		System.out.print("hi");
-		System.out.print("how are you");
-
-		System.out.print("4");
-		
+		System.out.print("how are you"
+		System.out.print("4"
 		System.out.print("5");
-
+		System.out.print("6");
 		
 
 	}
