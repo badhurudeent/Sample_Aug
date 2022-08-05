@@ -3,7 +3,7 @@
 public class check {
 
 	public static void main(String[] args) {
-		System.out.print("able to edit now");
+		System.out.print("create new conflict");
 	}
 
 }
